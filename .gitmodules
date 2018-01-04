@@ -1,0 +1,6 @@
+[submodule "mcgonagall-meteor"]
+	path = mcgonagall-meteor
+	url = https://github.com/NUDelta/mcgonagall-meteor
+[submodule "mcgonagall-ios"]
+	path = mcgonagall-ios
+	url = https://github.com/NUDelta/mcgonagall-ios
